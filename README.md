@@ -1,3 +1,3 @@
 # 1VerstkaSiteOne
 
-[Так выглядит макет сайта](/img/howlooktemplate.PNG)
+![Так выглядит макет сайта](/img/howlooktemplate.PNG)
