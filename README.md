@@ -3,4 +3,4 @@
 
 Так выглядит макет сайта:
 
-![Так выглядит макет сайта](/img/howlooktemplate.PNG)
+![Так выглядит макет сайта](/img/LionicTemplate.png)
